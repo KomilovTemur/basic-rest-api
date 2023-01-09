@@ -43,14 +43,14 @@ PATCH /posts/:postId
 ## Database Model
 ```
 title: {
-    type: String,
-    required: true,
-  },
-  description: {
-    type: String,
-    required: true,
-  },
-}
+  type: String,
+  required: true,
+},
+description: {
+  type: String,
+  required: true,
+},
+
 ```
 
 ***
